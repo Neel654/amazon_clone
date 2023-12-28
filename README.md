@@ -1,2 +1,2 @@
 # amazon_clone
-Just a basic clone of amazon first page made with the help of HTML and CSS
+Created my first HTML and CSS based amazom clone which consist of only the home page of Amazon.com
